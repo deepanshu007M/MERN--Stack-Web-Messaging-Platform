@@ -1,0 +1,27 @@
+#1. new terminal open kar k ->
+
+cd ./backend
+npm dev run 
+
+#2. mongodb:
+ka user: deepanshumorwal
+ka password: deepanshu123
+
+#3 front end:
+--> cd ./frontend
+---> npm start
+
+#4. stop karne k liye:
+---> ctrl + C
+
+#5 user:
+user: DeepanshuM 
+password: 123456
+
+user: test2
+password: test
+
+user: test2
+password: test
+
+
